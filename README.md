@@ -1,4 +1,4 @@
 # Cafe_Management_using_Python
 <br>
 A cafe management programme using python 
-Author - Ajay More 7
+Author - Ajay More 
